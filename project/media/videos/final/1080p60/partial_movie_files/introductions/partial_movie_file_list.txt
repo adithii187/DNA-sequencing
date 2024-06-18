@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/autrio/college-linx/IC/project/media/videos/final/1080p60/partial_movie_files/introductions/2902699114_1144780336_223132457.mp4'
+file 'file:/home/autrio/college-linx/IC/project/media/videos/final/1080p60/partial_movie_files/introductions/3931933789_2049305998_228928611.mp4'
+file 'file:/home/autrio/college-linx/IC/project/media/videos/final/1080p60/partial_movie_files/introductions/3931933789_2188184995_332245621.mp4'
+file 'file:/home/autrio/college-linx/IC/project/media/videos/final/1080p60/partial_movie_files/introductions/3931933789_1210068786_4020507587.mp4'
+file 'file:/home/autrio/college-linx/IC/project/media/videos/final/1080p60/partial_movie_files/introductions/3931933789_3487857154_3156966814.mp4'
+file 'file:/home/autrio/college-linx/IC/project/media/videos/final/1080p60/partial_movie_files/introductions/3931933789_3558640409_1698559257.mp4'
